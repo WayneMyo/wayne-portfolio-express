@@ -3,6 +3,7 @@ import { graphqlHTTP } from 'express-graphql';
 import { makeExecutableSchema } from '@graphql-tools/schema';
 import { mergeTypeDefs } from '@graphql-tools/merge';
 import { mergeResolvers } from '@graphql-tools/merge';
+import cors from 'cors';
 
 // Import schemas
 import aboutSchemas from './schemas/aboutSchemas';
@@ -36,8 +37,10 @@ const mergedResolvers = mergeResolvers([ // Merge the resolvers
 ]); 
 
 const app = express();
+app.use(cors());
+
 app.use(
-  '/graphql',
+  '/',
   graphqlHTTP({
     schema: mergedSchemas,
     rootValue: mergedResolvers,
