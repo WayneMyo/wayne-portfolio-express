@@ -18,10 +18,13 @@
 ```
 
 ## Packages Used
+- @graphql-tools/merge # GraphQL schema merging
+- @graphql-tools/schema # GraphQL schema tools
 - @types/node # Node.js types
 - express # Express.js
 - express-graphql # Express.js GraphQL middleware
 - graphql # GraphQL
+- graphql-tools # GraphQL tools
 - typescript # TypeScript
 
 ## Development Environment

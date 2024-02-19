@@ -1,0 +1,47 @@
+[
+    {
+        "title": "AWS Certified Solutions Architect – Associate",
+        "img": "/static/img/aws-icon.png",
+        "type": "Cloud Certifications"
+    },
+    {
+        "title": "AWS Certified Developer – Associate",
+        "img": "/static/img/aws-icon.png",
+        "type": "Cloud Certifications"
+    },
+    {
+        "title": "AWS File Storage Specialized",
+        "img": "/static/img/aws-icon.png",
+        "type": "Cloud Certifications"
+    },
+    {
+        "title": "AWS Certified Cloud Practitioner",
+        "img": "/static/img/aws-icon.png",
+        "type": "Cloud Certifications"
+    },
+    {
+        "title": "Microsoft Certified Azure Fundamentals",
+        "img": "/static/img/msft-icon.png",
+        "type": "Cloud Certifications"
+    },
+    {
+        "title": "Google Advanced Data Analytics Certificate",
+        "img": "/static/img/google-icon.png",
+        "type": "Others"
+    },
+    {
+        "title": "IBM Data Science Professional Certificate",
+        "img": "/static/img/ibm-icon.png",
+        "type": "Others"
+    },
+    {
+        "title": "ABBYY Vantage Certified Business Analyst",
+        "img": "/static/img/abbyy-icon.png",
+        "type": "Others"
+    },
+    {
+        "title": "ABBYY Vantage Advanced Designer",
+        "img": "/static/img/abbyy-icon.png",
+        "type": "Others"
+    }
+]

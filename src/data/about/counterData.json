@@ -1,0 +1,22 @@
+[
+    {
+        "icon": "ti-face-smile",
+        "title": "Years of Experience",
+        "count": 3
+    },
+    {
+        "icon": "ti-book",
+        "title": "Cloud Certifications",
+        "count": 5
+    },
+    {
+        "icon": "ti-flag",
+        "title": "Projects Delivered",
+        "count": 3
+    },
+    {
+        "icon": "ti-light-bulb",
+        "title": "POCs/Demos Conducted",
+        "count": 7
+    }
+]
